@@ -24,7 +24,7 @@ public class SimpleDotGame {
             }
         }
         if(numberOfHits==location.length){
-            result="Win!";
+            result="kill";
         }
         System.out.println(result);
 
