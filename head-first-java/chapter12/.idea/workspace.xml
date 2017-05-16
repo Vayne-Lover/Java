@@ -43,10 +43,11 @@
       <file leaf-file-name="SimpleGUI3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SimpleGUI3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleGUI2">
+  <component name="RunManager" selected="Application.SimpleGUI3">
     <configuration default="false" name="SimpleGUI1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="SimpleGUI1" />
@@ -184,6 +185,21 @@
     <configuration default="false" name="SimpleGUI2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="SimpleGUI2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="chapter12" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleGUI3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SimpleGUI3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -633,14 +649,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.SimpleGUI1" />
       <item index="1" class="java.lang.String" itemvalue="Application.SimpleGUI2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SimpleGUI3" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.SimpleGUI2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SimpleGUI1" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.SimpleGUI3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleGUI2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SimpleGUI1" />
       </list>
     </recent_temporary>
   </component>
@@ -659,12 +677,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494829538744</updated>
-      <workItem from="1494829540500" duration="1841000" />
+      <workItem from="1494829540500" duration="2015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1841000" />
+    <option name="totallyTimeSpent" value="2015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -760,10 +778,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SimpleGUI3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
