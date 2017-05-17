@@ -17,7 +17,7 @@ public class SimpleGUI3 {
         DrawPanel panel = new DrawPanel();
 
         frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
-        frame.getContentPane().add(BorderLayout.CENTER, panel);
+        frame.getContentPane().add(BorderLayout.EAST, panel);
         frame.setSize(300,300);
         frame.setVisible(true);
     }

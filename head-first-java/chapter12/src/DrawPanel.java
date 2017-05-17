@@ -1,9 +1,8 @@
 /**
  * Created by Vayne-Lover on 5/16/17.
  */
-
-import java.awt.*;
 import javax.swing.*;
+import java.awt.*;
 
 public class DrawPanel extends JPanel{
     public void paintComponent(java.awt.Graphics g){
