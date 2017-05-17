@@ -14,10 +14,12 @@ public class SimpleGUI3 {
 
     public void go(){
         frame = new JFrame();
-        DrawPanel panel = new DrawPanel();
+        //DrawPanel panel = new DrawPanel();
+        DrawPanel1 panel1 = new DrawPanel1();
 
         frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
-        frame.getContentPane().add(BorderLayout.EAST, panel);
+        //frame.getContentPane().add(BorderLayout.CENTER, panel);
+        frame.getContentPane().add(BorderLayout.CENTER, panel1);
         frame.setSize(300,300);
         frame.setVisible(true);
     }

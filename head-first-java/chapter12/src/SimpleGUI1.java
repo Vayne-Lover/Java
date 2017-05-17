@@ -1,6 +1,7 @@
 /**
  * Created by Vayne-Lover on 5/15/17.
  */
+
 import javax.swing.*;
 
 public class SimpleGUI1 {
