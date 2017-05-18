@@ -4,8 +4,8 @@
  * Time: 15:50.
  */
 
-import javax.swing.*;
 import java.awt.*;
+import javax.swing.*;
 
 public class DrawPanel extends JPanel{
     public void paintComponent(java.awt.Graphics g){

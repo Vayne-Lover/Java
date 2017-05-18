@@ -18,10 +18,12 @@ public class SimpleGUI3 {
         JFrame frame = new JFrame();
         DrawPanel panel = new DrawPanel();
         DrawPanel1 panel1 = new DrawPanel1();
+        DrawPanel2 panel2 = new DrawPanel2();
 
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        frame.getContentPane().add(BorderLayout.SOUTH, panel);
-        frame.getContentPane().add(BorderLayout.CENTER, panel1);
+        //frame.getContentPane().add(BorderLayout.SOUTH, panel);
+        //frame.getContentPane().add(BorderLayout.CENTER, panel1);
+        frame.getContentPane().add(BorderLayout.CENTER, panel2);
         frame.setSize(300,300);
         frame.setVisible(true);
     }
