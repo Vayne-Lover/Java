@@ -21,12 +21,14 @@ public class SimpleGUi4 implements ActionListener{
         JButton button = new JButton("Change colors");
         button.addActionListener(this);
 
+        DrawPanel3 panel = new DrawPanel3();
 
+        frame.getContentPane().add(BorderLayout.CENTER, panel);
         frame.getContentPane().add(BorderLayout.SOUTH, button);
         frame.setSize(300,300);
         frame.setVisible(true);
     }
-    
+
     public void actionPerformed(ActionEvent e) {
         frame.repaint();
     }
