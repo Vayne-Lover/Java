@@ -18,17 +18,33 @@ public class SimpleAnimation {
         JFrame frame = new JFrame();
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
-        DrawPanel panel = new DrawPanel();
+        DrawPanels panel = new DrawPanels();
 
         frame.getContentPane().add(panel);
 
         frame.setSize(300,300);
 
         frame.setVisible(true);
+
+        for (int i = 0; i<130; i++){
+            x++;
+            y++;
+
+            panel.repaint();
+
+            try
+            {
+                Thread.sleep(50);
+            }
+            catch(Exception ex)
+            {
+                System.out.println(ex);
+            }
+        }
     }
 
 
-    class DrawPanel extends JPanel{
+    class DrawPanels extends JPanel{
         public void paintComponent(Graphics g){
             g.setColor(Color.white);
             g.fillOval(0,0, this.getWidth(), this.getHeight());
