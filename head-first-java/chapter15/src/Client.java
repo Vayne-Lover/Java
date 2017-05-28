@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 import java.net.Socket;
 
 public class Client {
-    public void go(){
+    private void go(){
         try{
             Socket s = new Socket("127.0.0.1", 4242);
 
