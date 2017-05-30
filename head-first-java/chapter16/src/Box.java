@@ -4,6 +4,7 @@
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -25,7 +26,7 @@ public class Box {
     private void getSongs(){
         try{
             File file = new File("Songs.txt");
-            BufferedReader reader = new BufferedReader(file);
+            BufferedReader reader = new BufferedReader(new FileReader(file));
             String line = null;
             while ((line = reader.readLine()) != null){
                 addSong(line);
