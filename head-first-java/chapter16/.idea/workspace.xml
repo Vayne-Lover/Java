@@ -13,19 +13,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestAnimal.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TestAnimal.java">
+      <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="165">
+              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#601#609#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,6 +48,7 @@
         <option value="$PROJECT_DIR$/src/Box.java" />
         <option value="$PROJECT_DIR$/src/TestMap.java" />
         <option value="$PROJECT_DIR$/src/TestAnimal.java" />
+        <option value="$PROJECT_DIR$/src/BankAccount.java" />
       </list>
     </option>
   </component>
@@ -793,12 +791,12 @@
       <option name="presentableId" value="Default" />
       <updated>1496034589565</updated>
       <workItem from="1496034591453" duration="1360000" />
-      <workItem from="1496291113258" duration="1330000" />
+      <workItem from="1496291113258" duration="1581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2690000" />
+    <option name="totallyTimeSpent" value="2941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -861,9 +859,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#601#609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Box.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
+        <state relative-caret-position="450">
           <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -883,18 +897,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestAnimal.java">
+    <entry file="file://$PROJECT_DIR$/src/BankAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#601#609#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
           </folding>
         </state>
       </provider>
