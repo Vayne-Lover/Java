@@ -23,7 +23,7 @@ public class BankJob implements Runnable {
 
     }
 
-    private void withdraw(int amount){
+    private synchronized void withdraw(int amount){
         if (account.getBalance() >= amount) {
             System.out.println(Thread.currentThread().getName() + " is about to withdraw");
 
