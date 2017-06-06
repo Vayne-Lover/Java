@@ -1,0 +1,57 @@
+Compiled from "WithStringBuilder.java"
+class WithStringBuilder {
+  WithStringBuilder();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: return
+
+  public static void main(java.lang.String[]);
+    Code:
+       0: iconst_3
+       1: anewarray     #2                  // class java/lang/String
+       4: dup
+       5: iconst_0
+       6: ldc           #3                  // String Hi
+       8: aastore
+       9: dup
+      10: iconst_1
+      11: ldc           #4                  // String Ha
+      13: aastore
+      14: dup
+      15: iconst_2
+      16: ldc           #5                  // String Ya
+      18: aastore
+      19: astore_1
+      20: new           #6                  // class java/lang/StringBuilder
+      23: dup
+      24: invokespecial #7                  // Method java/lang/StringBuilder."<init>":()V
+      27: astore_2
+      28: aload_1
+      29: astore_3
+      30: aload_3
+      31: arraylength
+      32: istore        4
+      34: iconst_0
+      35: istore        5
+      37: iload         5
+      39: iload         4
+      41: if_icmpge     63
+      44: aload_3
+      45: iload         5
+      47: aaload
+      48: astore        6
+      50: aload_2
+      51: aload         6
+      53: invokevirtual #8                  // Method java/lang/StringBuilder.append:(Ljava/lang/String;)Ljava/lang/StringBuilder;
+      56: pop
+      57: iinc          5, 1
+      60: goto          37
+      63: aload_2
+      64: invokevirtual #9                  // Method java/lang/StringBuilder.toString:()Ljava/lang/String;
+      67: astore_3
+      68: getstatic     #10                 // Field java/lang/System.out:Ljava/io/PrintStream;
+      71: aload_3
+      72: invokevirtual #11                 // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+      75: return
+}
