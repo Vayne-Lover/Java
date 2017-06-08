@@ -2,14 +2,14 @@ import java.io.*;
 
 class Hex{
     public static String format(byte[] data){
-        StringBuilder builder = new StringBuilder;
+        StringBuilder builder = new StringBuilder();
         int n = 0;
         for (byte b : data){
-            if (n % 16 ==0) builder.append("%05x", by);
-            builder.append("%02x", by);
+            if (n % 16 ==0) builder.append(String.format("%05X", n));
+            builder.append(String.format("%02X", b));
             if (n % 16 ==0) builder.append("\n");
         }
-        builder.append("\n")
+        builder.append("\n");
         return builder.toString();
 
     }
@@ -19,7 +19,7 @@ class Hex{
             System.out.println(format(BinaryFile.read("Hex.class")));
         }
         else{
-            System.out.println(format(BinaryFile.read(args[0])));
+            System.out.println(format(BinaryFile.read(new File(args[0]))));
         }
 
     }
