@@ -1,6 +1,6 @@
 import java.io.*;
 
-class Hex{
+public class Hex{
     public static String format(byte[] data){
         StringBuilder builder = new StringBuilder();
         int n = 0;

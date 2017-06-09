@@ -21,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Hex.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hex.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/Hex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            <state relative-caret-position="150">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntegerMatch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/IntegerMatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -47,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter13/Receipt.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter13/Hex.java" />
+        <option value="$PROJECT_DIR$/thinking-in-java/chapter13/IntegerMatch.java" />
       </list>
     </option>
   </component>
@@ -581,12 +592,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487405471379</updated>
       <workItem from="1487405478580" duration="123000" />
-      <workItem from="1496810610741" duration="2370000" />
+      <workItem from="1496810610741" duration="2874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2493000" />
+    <option name="totallyTimeSpent" value="2997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -664,8 +675,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/Hex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/IntegerMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
