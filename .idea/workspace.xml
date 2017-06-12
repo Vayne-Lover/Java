@@ -52,11 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rudolph.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Rudolph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/Rudolph.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestRegex.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/TestRegex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -81,6 +91,7 @@
         <option value="$PROJECT_DIR$/thinking-in-java/chapter13/IntegerMatch.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter13/Splitting.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter13/Rudolph.java" />
+        <option value="$PROJECT_DIR$/thinking-in-java/chapter13/TestRegex.java" />
       </list>
     </option>
   </component>
@@ -615,12 +626,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487405471379</updated>
       <workItem from="1487405478580" duration="123000" />
-      <workItem from="1496810610741" duration="3750000" />
+      <workItem from="1496810610741" duration="4239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3873000" />
+    <option name="totallyTimeSpent" value="4362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -727,6 +738,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/TestRegex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding />
         </state>
       </provider>
