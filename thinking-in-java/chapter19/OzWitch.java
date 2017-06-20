@@ -10,7 +10,7 @@ public enum OzWitch{
         this.description = des;
     }
 
-    public String getDescription(){ 
+    public String getDescription(){
         return description;
     }
 
