@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65d7ae3e-46c7-4e7a-a628-863c63826ace" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinking-in-java/chapter19/OzWitch.java" afterPath="$PROJECT_DIR$/thinking-in-java/chapter19/OzWitch.java" />
-    </list>
+    <list default="true" id="65d7ae3e-46c7-4e7a-a628-863c63826ace" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,15 +54,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TrafficLight.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TrafficLight.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter19/TrafficLight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+            <state relative-caret-position="335">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="e#440#441#0" expanded="true" />
                 <element signature="e#500#501#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpcastEnum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter19/UpcastEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,6 +104,7 @@
         <option value="$PROJECT_DIR$/thinking-in-java/chapter19/EnumClass.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter19/OzWitch.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter19/TrafficLight.java" />
+        <option value="$PROJECT_DIR$/thinking-in-java/chapter19/UpcastEnum.java" />
       </list>
     </option>
   </component>
@@ -644,12 +653,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487405471379</updated>
       <workItem from="1487405478580" duration="123000" />
-      <workItem from="1496810610741" duration="9710000" />
+      <workItem from="1496810610741" duration="10061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9833000" />
+    <option name="totallyTimeSpent" value="10184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -825,12 +834,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter19/TrafficLight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        <state relative-caret-position="335">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="e#440#441#0" expanded="true" />
             <element signature="e#500#501#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter19/UpcastEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
