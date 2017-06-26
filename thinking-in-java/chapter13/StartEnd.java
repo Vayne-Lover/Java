@@ -1,13 +1,13 @@
 import java.util.regex.*;
 
 public class StartEnd{
-    pubic static String input = "As long as there is injustuce, whenever a\n" +
+    public static String input = "As long as there is injustuce, whenever a\n" +
                                 "Targeathian baby cries out, whenervr a distress\n" +
                                 "signal sounds among the stars ... We'l be there.\n" +
                                 "This fine ship, and this fine crew ...\n" +
                                 "Never give up!Never surrender!";
 
-    private class Display{
+    private static class Display{
         private boolean regexPrinted = false;
         private String regex;
         Display(String regex){this.regex = regex;}
@@ -35,6 +35,14 @@ public class StartEnd{
             if(m.matches()){
                 d.display("matches() " + " start = " + m.start() + "end = " + m.end());
             }
+        }
+    }
+
+    public static void main(String[] args){
+        for(String in : input.split("\n")){
+            System.out.println("Input: " + in);
+            for(String regex : new String[]{"\\w*ere\\w*", "\\w*ever", "T\\w+", "Never.*?!"})
+                examine(in, regex);
         }
     }
 }
