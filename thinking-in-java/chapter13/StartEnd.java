@@ -25,17 +25,14 @@ public class StartEnd{
         Pattern p = Pattern.compile(regex);
         Matcher m = p.matcher(s);
 
-        while(m.find()){
+        while(m.find())
             d.display("find() ' " + m.group() + " ' start = " + m.start() + "end = " + m.end());
 
-            if(m.lookingAt()){
+            if(m.lookingAt())
                 d.display("lookingAt() " + " start = " + m.start() + "end = " + m.end());
-            }
 
-            if(m.matches()){
+            if(m.matches())
                 d.display("matches() " + " start = " + m.start() + "end = " + m.end());
-            }
-        }
     }
 
     public static void main(String[] args){
