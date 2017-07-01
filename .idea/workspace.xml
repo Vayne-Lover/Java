@@ -19,16 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestReset.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/TestReset.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="EnumClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter19/EnumClass.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,7 +110,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OverloadingOrder.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OverloadingOrder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/OverloadingOrder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -131,6 +121,16 @@
                 <element signature="e#182#183#0" expanded="true" />
                 <element signature="e#248#249#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimitiveOverloading.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/PrimitiveOverloading.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -168,6 +168,7 @@
         <option value="$PROJECT_DIR$/thinking-in-java/chapter05/SimpleConstructor.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter05/SimpleConstructor2.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter05/OverloadingOrder.java" />
+        <option value="$PROJECT_DIR$/thinking-in-java/chapter05/PrimitiveOverloading.java" />
       </list>
     </option>
   </component>
@@ -737,12 +738,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487405471379</updated>
       <workItem from="1487405478580" duration="123000" />
-      <workItem from="1496810610741" duration="14547000" />
+      <workItem from="1496810610741" duration="15152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14670000" />
+    <option name="totallyTimeSpent" value="15275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -980,6 +981,14 @@
             <element signature="e#182#183#0" expanded="true" />
             <element signature="e#248#249#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/PrimitiveOverloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
