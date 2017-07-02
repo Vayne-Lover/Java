@@ -16,9 +16,33 @@ public class PrimitiveOverloading{
         f1(x);
     }
 
+    public void testShort(){
+        short x = 0;
+        f1(x);
+    }
+
+    public void testInt(){
+        int x = 0;
+        f1(x);
+    }
+
+    public void testLong(){
+        long x = 0;
+        f1(x);
+    }
+
+    public void testFloat(){
+        float x = 0;
+        f1(x);
+    }
+
     public static void main(String[] args){
         PrimitiveOverloading p = new PrimitiveOverloading();
         p.testChar();
         p.testByte();
+        p.testShort();
+        p.testInt();
+        p.testLong();
+        p.testFloat();
     }
 }
