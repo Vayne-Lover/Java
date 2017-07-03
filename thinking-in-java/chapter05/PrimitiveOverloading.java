@@ -1,10 +1,10 @@
 public class PrimitiveOverloading{
-    void f1(char x){System.out.println("fi(char)");}
-    void f1(byte x){System.out.println("fi(byte)");}
-    void f1(short x){System.out.println("fi(short)");}
-    void f1(int x){System.out.println("fi(int)");}
-    void f1(long x){System.out.println("fi(long)");}
-    void f1(float x){System.out.println("fi(float)");}
+    void f1(char x){System.out.println("f1(char)");}
+    void f1(byte x){System.out.println("f1(byte)");}
+    void f1(short x){System.out.println("f1(short)");}
+    void f1(int x){System.out.println("f1(int)");}
+    void f1(long x){System.out.println("f1(long)");}
+    void f1(float x){System.out.println("f1(float)");}
 
     public void testChar(){
         char x = 'x';
