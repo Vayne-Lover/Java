@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65d7ae3e-46c7-4e7a-a628-863c63826ace" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="65d7ae3e-46c7-4e7a-a628-863c63826ace" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,16 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReplaceStringTokenizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/ReplaceStringTokenizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StartEnd.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/StartEnd.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -114,11 +102,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BananaPeel.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BananaPeel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/BananaPeel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Apricot.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/Apricot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -162,6 +160,7 @@
         <option value="$PROJECT_DIR$/thinking-in-java/chapter05/DefaultConstructor.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter05/NewConstructor.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter05/BananaPeel.java" />
+        <option value="$PROJECT_DIR$/thinking-in-java/chapter05/Apricot.java" />
       </list>
     </option>
   </component>
@@ -743,12 +742,12 @@
       <workItem from="1487405478580" duration="123000" />
       <workItem from="1496810610741" duration="16141000" />
       <workItem from="1499262295259" duration="1566000" />
-      <workItem from="1499358073595" duration="263000" />
+      <workItem from="1499358073595" duration="621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18093000" />
+    <option name="totallyTimeSpent" value="18451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -1153,6 +1152,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/Apricot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
           <folding />
         </state>
       </provider>
