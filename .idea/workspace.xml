@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65d7ae3e-46c7-4e7a-a628-863c63826ace" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinking-in-java/chapter05/Flower.java" afterPath="$PROJECT_DIR$/thinking-in-java/chapter05/Flower.java" />
-    </list>
+    <list default="true" id="65d7ae3e-46c7-4e7a-a628-863c63826ace" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,16 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OverloadingOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/OverloadingOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PrimitiveOverloading.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/PrimitiveOverloading.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -122,7 +109,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Flower.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Flower.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/Flower.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -130,6 +117,19 @@
               <folding>
                 <element signature="e#644#645#0" expanded="true" />
                 <element signature="e#683#684#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InitValues.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/InitValues.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+              <folding>
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -177,6 +177,7 @@
         <option value="$PROJECT_DIR$/thinking-in-java/chapter05/Leaf.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter05/PassingThis.java" />
         <option value="$PROJECT_DIR$/thinking-in-java/chapter05/Flower.java" />
+        <option value="$PROJECT_DIR$/thinking-in-java/chapter05/InitValues.java" />
       </list>
     </option>
   </component>
@@ -759,12 +760,12 @@
       <workItem from="1496810610741" duration="16141000" />
       <workItem from="1499262295259" duration="1566000" />
       <workItem from="1499358073595" duration="2249000" />
-      <workItem from="1499871799297" duration="500000" />
+      <workItem from="1499871799297" duration="848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20579000" />
+    <option name="totallyTimeSpent" value="20927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -815,13 +816,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter19/UpcastEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter13/ReplaceStringTokenizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1193,6 +1187,17 @@
           <folding>
             <element signature="e#644#645#0" expanded="true" />
             <element signature="e#683#684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinking-in-java/chapter05/InitValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
           </folding>
         </state>
       </provider>
